@@ -17,9 +17,12 @@
  [BGG](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html)
 
 ## Research
-
+Work in progress...
 ## Get involved 
-
+[Web accessibility advocacy](https://www.accessi.org/blog/community-and-advocacy-in-web-accessibility/)
 ## For those who prefer to watch
 [Microsoft Accessibility Videos (youtube)](https://www.youtube.com/user/MSFTEnable)
+[AI/ML and accessibility (youtube)](https://www.youtube.com/watch?v=pPNGOxiq5Wk&pp=ygUTQUkvTUwgYWNjZXNzaWJpbGl0eQ%3D%3D)
+[Machine learning for accessibility (youtube)](https://www.youtube.com/watch?v=e5cEEwAGruk&pp=ygUTQUkvTUwgYWNjZXNzaWJpbGl0eQ%3D%3D)
 ## For those who perfer to listen (english/german)
+Place for the podcasts, work in progress... 
