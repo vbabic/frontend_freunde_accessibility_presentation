@@ -10,11 +10,11 @@
 7. [Microsoft - Ability](https://www.microsoft.com/en-us/research/group/ability/)
 
 ## Legal 
- [EU Web accessibility policy](https://european-union.europa.eu/web-accessibility-policy_en)
- [US Web accessiblity regulation](https://www.ada.gov/resources/2024-03-08-web-rule/)
- [Germany web accessibility (in english)](https://www.equalweb.com/p/34475/34475/germany_web_accessibility)
- [BITV 2.0](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html)
- [BGG](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html)
+ - [EU Web accessibility policy](https://european-union.europa.eu/web-accessibility-policy_en)
+ - [US Web accessiblity regulation](https://www.ada.gov/resources/2024-03-08-web-rule/)
+ - [Germany web accessibility (in english)](https://www.equalweb.com/p/34475/34475/germany_web_accessibility)
+ - [BITV 2.0](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html)
+ - [BGG](https://www.gesetze-im-internet.de/bgg/BJNR146800002.html)
 
 ## Research
 Work in progress...
