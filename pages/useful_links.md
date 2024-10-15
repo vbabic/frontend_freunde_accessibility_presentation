@@ -9,6 +9,7 @@
   7. [Microsoft - Ability](https://www.microsoft.com/en-us/research/group/ability/)
   8. [Why web accessibility is important?](https://www.boia.org/blog/why-web-accessibility-is-important-4-reasons-to-create-accessible-content)
   9. [DREDF - Disability Rights Education & Defence Fund](https://dredf.org/)
+  10. [The Evolution of Web Accessibility](https://pressbooks.library.torontomu.ca/pwaa/chapter/the-evolution-of-web-accessibility/)
 - ## Legal
 	- [EU Web accessibility policy](https://european-union.europa.eu/web-accessibility-policy_en)
 	- [US Web accessiblity regulation](https://www.ada.gov/resources/2024-03-08-web-rule/)
@@ -22,8 +23,6 @@
 	- [Europe (Eurostat)](https://www.consilium.europa.eu/en/infographics/disability-eu-facts-figures/)
 	- [Measuring disability (Eurostat)](https://ec.europa.eu/eurostat/web/disability/information-data)
 	- [Behinderte Menschen (destatis.de)](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Behinderte-Menschen/_inhalt.html)
-	-
-	-
 - ## Get involved 
   [Web accessibility advocacy](https://www.accessi.org/blog/community-and-advocacy-in-web-accessibility/)
 - ## For those who prefer to watch

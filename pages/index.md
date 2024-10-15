@@ -38,7 +38,11 @@
 	- **It's not a topic to learn** it is a life-long journey - **Be open to learn**
 - Accessibility <> disability phenomena, is accessibility only for people with disabilities?
 - How is it event possible (case study), car insurance for the blind people.
-- WEB 1.0 - pre-internet era understanding of the internet ["what is the web"]({{video https://www.youtube.com/watch?v=95-yZ-31j9A}})
+- WEB 1.0
+	- Pre- and early internet era of the internet "what is the web?" {{video https://www.youtube.com/watch?v=95-yZ-31j9A}}
+	-
+	- {{video https://www.youtube.com/watch?v=BOHyLkp7TpE}}
+	-
 - WEB 2.0 - the era of interactive web pages and AJAX
 - Who are the people on the web? (video)
 - Legal situation in the **World**, **Europe** and specifically _*Germany*_.
@@ -61,5 +65,4 @@
 	- We started with the general statistics on the the topic
 	- Gotten into grips with lingo
 	- "Profiteers" of the accessibility (study case)
-- AČIŪ ir IKI!
--
+- AČIŪ ir IKI! (Tschuss!)
