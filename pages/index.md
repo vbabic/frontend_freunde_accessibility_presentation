@@ -1,13 +1,22 @@
 - Who am I and why do I speak about the accessibility topic?
   ![image.png](../assets/image_1728980884509_0.png)
+  ## Lábas! (Lithianian greeting )
   → Frontend Developer
   → Technology enthusiast
   → Leeze enthusiast
 	- Personal story LOHN
 	  ![](https://icrcat.com/wp-content/uploads/2016/10/leber-5.png)
+	  👁️ https://www.perkins.org/what-blindness-really-looks-like/
 	-
 - Objectives and things that I am aiming to achieve by the end of the presentaiton.
+	- Raise the awareness about accessibility topic
+	- Look at the current state of the WEB
+	- Discuss ways we can contribute to better, more accessible WEB
 - Couple of numbers
+	- An estimated 1.3 billion people experience significant disability. This represents 16% of the world’s population, or 1 in 6 of us.
+	- According to Eurostat estimates, that equals to **101 million** **people** or **one in four people adults in the EU**.
+	- **7,9 Millionen** schwerbehinderte Menschen leben in **Deutschland 9.3%**
+	  ![image.png](../assets/image_1729009880196_0.png)
 - Motivation to invest your time into *accessibility*
   collapsed:: true
   ![image.png](../assets/image_1728978408337_0.png)
@@ -37,3 +46,5 @@
 	- We started with the general statistics on the the topic
 	- Gotten into grips with lingo
 	- "Profiteers" of the accessibility (study case)
+- AČIŪ ir IKI!
+-
