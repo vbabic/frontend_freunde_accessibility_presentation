@@ -38,7 +38,9 @@
 	- **It's not a topic to learn** it is a life-long journey - **Be open to learn**
 - Accessibility <> disability phenomena, is accessibility only for people with disabilities?
 - How is it event possible (case study), car insurance for the blind people.
-- Physical breaching into digital, first representations of the web "what is the web" WEB 1.0, 2.0 and further what is the future of the web? Who are the people on the web? (video)
+- WEB 1.0 - pre-internet era understanding of the internet ["what is the web"]({{video https://www.youtube.com/watch?v=95-yZ-31j9A}})
+- WEB 2.0 - the era of interactive web pages and AJAX
+- Who are the people on the web? (video)
 - Legal situation in the **World**, **Europe** and specifically _*Germany*_.
 - Problem with WEB 2.0
 	- Is it a button game (intro to semantic web problem)
