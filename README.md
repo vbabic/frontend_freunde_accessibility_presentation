@@ -1,9 +1,11 @@
-# Accessibility presentation for the Frontend Freunde
+# Accessibility (A11Y) presentation for the Frontend Freunde
 
 ## Project description
+
 Current project contains files and materials used in preparation for and giving the presentation to the [Frontend Freune Münster](https://www.meetup.com/de-DE/frontend-freunde/) which is held in [Zweitag](https://www.zweitag.de/en/ueber-uns) company office.
 
 ## Presentation structure
+
 - Who am I and why do I speak about the accessibility topic?
 - Objectives and things that I am aiming to achieve by the end of the presentaiton.
 - Couple of numbers
@@ -13,13 +15,13 @@ Current project contains files and materials used in preparation for and giving 
 - How is it event possible (case study), car insurance for the blind people. 
 - Physical breaching into digital, first representations of the web "what is the web" WEB 1.0, 2.0 and further what is the future of the web? Who are the people on the web? (video)
 - Legal situation in the **World**, **Europe** and specifically _*Germany*_.
--  Problem with WEB 2.0
-    - Is it a button game (intro to semantic web problem)
-    - Frameworks, libraries, design systems
+- Problem with WEB 2.0
+  - Is it a button game (intro to semantic web problem)
+  - Frameworks, libraries, design systems
 - Challenges and ongoing research, the state of the **accessibility** topic today.
 - Tools and standards to the rescure!
-    - Assessment of your web page ([WAVE plugin](https://wave.webaim.org/extension/))
-    - Assessment of your web page ([axe DevTools plugin](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?pli=1))
+  - Assessment of your web page ([WAVE plugin](https://wave.webaim.org/extension/))
+  - Assessment of your web page ([axe DevTools plugin](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?pli=1))
     [ESLint rules 1](https://web.dev/articles/accessibility-auditing-react)
     [ESLint rules 2](https://typescript-eslint.io/rules/explicit-member-accessibility/)
     [Web content accessibility guidelines (**WCAG**)](https://www.w3.org/WAI/standards-guidelines/wcag/)
@@ -29,6 +31,6 @@ Current project contains files and materials used in preparation for and giving 
 - How to get involved? 
 - How to become accessibility advocate?
 - What did we learn and achieve? 
-    - We started with the general statistics on the the topic
-    - Gotten into grips with lingo
-    - "Profiteers" of the accessibility (study case)
+  - We started with the general statistics on the the topic
+  - Gotten into grips with lingo
+  - "Profiteers" of the accessibility (study case)
