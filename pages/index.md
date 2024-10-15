@@ -65,4 +65,4 @@
 	- We started with the general statistics on the the topic
 	- Gotten into grips with lingo
 	- "Profiteers" of the accessibility (study case)
-- AČIŪ ir IKI! (Tschüss!!)
+- AČIŪ ir IKI! (Danke und TSHÜSS!!)
