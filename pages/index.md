@@ -1,5 +1,11 @@
-## Presentation structure
 - Who am I and why do I speak about the accessibility topic?
+  ![image.png](../assets/image_1728980884509_0.png)
+  → Frontend Developer
+  → Technology enthusiast
+  → Leeze enthusiast
+	- Personal story LOHN
+	  ![](https://icrcat.com/wp-content/uploads/2016/10/leber-5.png)
+	-
 - Objectives and things that I am aiming to achieve by the end of the presentaiton.
 - Couple of numbers
 - Motivation to invest your time into *accessibility*
