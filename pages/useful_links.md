@@ -7,6 +7,8 @@
   5. [Accessibility guidelines w3.org](https://www.w3.org/WAI/standards-guidelines/wcag/)
   6.[Training Essentials (Microsoft)](https://www.microsoft.com/en-us/accessibility/resources)
   7. [Microsoft - Ability](https://www.microsoft.com/en-us/research/group/ability/)
+  8. [Why web accessibility is important?](https://www.boia.org/blog/why-web-accessibility-is-important-4-reasons-to-create-accessible-content)
+  9. [DREDF - Disability Rights Education & Defence Fund](https://dredf.org/)
 - ## Legal
 	- [EU Web accessibility policy](https://european-union.europa.eu/web-accessibility-policy_en)
 	- [US Web accessiblity regulation](https://www.ada.gov/resources/2024-03-08-web-rule/)
